@@ -1,0 +1,18 @@
+# Folders
+venv/
+done/
+done txt/
+sp/
+ToDo Later/
+
+# extensions
+*.txt
+*.mp3
+
+# config files
+.env
+.python-version
+desktop.ini
+
+# files
+verify_env.py
