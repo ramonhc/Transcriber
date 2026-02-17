@@ -8,6 +8,8 @@ ToDo Later/
 # extensions
 *.txt
 *.mp3
+*.csv
+*.zip
 
 # config files
 .env
